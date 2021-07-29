@@ -1,2 +1,2 @@
 # NavBar-reactjs
-navbar
+responsive navbar
